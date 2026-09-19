@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Get In Touch on Sh.Profile</title>
-		<link>http://kisyh.github.io/contact/</link>
+		<link>https://kisyh.github.io/contact/</link>
 		<description>Recent content in Get In Touch on Sh.Profile</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="http://kisyh.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://kisyh.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
