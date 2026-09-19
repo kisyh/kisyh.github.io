@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Singer on Sh.Profile</title>
+		<link>http://localhost:1313/categories/singer/</link>
+		<description>Recent content in Singer on Sh.Profile</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 20 Sep 2026 01:07:47 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/singer/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Post.</title>
+				<link>http://localhost:1313/blog/test/</link>
+				<pubDate>Sun, 20 Sep 2026 01:07:47 +0800</pubDate>
+				<guid>http://localhost:1313/blog/test/</guid>
+				<description>&lt;p&gt;Hello World&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Sh.&lt;/p&gt;&#xA;&lt;h1 id=&#34;一級標題&#34;&gt;一級標題&lt;/h1&gt;&#xA;&lt;h2 id=&#34;二級標題&#34;&gt;二級標題&lt;/h2&gt;&#xA;&lt;h6 id=&#34;六級標題&#34;&gt;六級標題&lt;/h6&gt;&#xA;&lt;p&gt;我是&lt;strong&gt;SH&lt;/strong&gt;，我喜歡&lt;em&gt;學習&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;第一點&#xA;&lt;ol&gt;&#xA;&lt;li&gt;內縮一行要打4個空格&#xA;&lt;ol&gt;&#xA;&lt;li&gt;內縮一行要打4個空格&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;第二點&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;無序序列&#xA;&lt;ul&gt;&#xA;&lt;li&gt;內縮一行要打4個空格&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;無序序列&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hello&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
